@@ -10,19 +10,6 @@ This project is your one-stop shop for a user-friendly airline management system
 - Scalable System: Designed to handle a growing number of flights and users, ensuring seamless operation as your airline expands .
 
 
-### Getting on Board:
-1. Clone the Repository: Open your terminal and run git clone https://github.com/bhanmrinal/Airline-Management-System.git
-
-2. Set Up the Database:
-Install MySQL (https://www.mysql.com/downloads/) & Create a MySQL database and user for the application.
-
-3. Configure the database connection details in config.php.
-Start the Engines!
-Navigate to the project directory: cd Airline-Management-System.
-Start a local web server (e.g., Apache or Nginx).
-Access the application in your browser (usually http://localhost/your-project-folder).
-
-
 ### Contributing? We'd Love Your Help!
 Feel free to submit pull requests with bug fixes or enhancements. ✨ We appreciate your contributions to making this system even better!
 
